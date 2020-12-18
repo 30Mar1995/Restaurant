@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.25.2 clang-1200.0.27.1)"
+options: "568b9ba2073d00a663eebc89c655e6a9"
+build_time: [1597321407, 44295000]
+inputs:
+  "/Users/pooja/Desktop/AnimationSwiftUI/AnimationSwiftUI/AppDelegate.swift": [1596981734, 517965735]
+  "/Users/pooja/Desktop/AnimationSwiftUI/AnimationSwiftUI/SceneDelegate.swift": [1596981734, 536434280]
+  "/Users/pooja/Desktop/AnimationSwiftUI/AnimationSwiftUI/ContentView.swift": [1597321406, 900574772]
